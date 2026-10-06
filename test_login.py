@@ -7,6 +7,8 @@ def test_login_exitoso():
    
    driver = webdriver.Chrome()
 
+   driver.implicitly_wait(10)
+
    try:
         driver.get("https://www.saucedemo.com/")
 
