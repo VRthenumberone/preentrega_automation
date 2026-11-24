@@ -1,0 +1,30 @@
+2026-11-10 12:03:02,061 - INFO - Talento_Tech - Iniciando prueba de carrito
+2026-11-10 12:03:02,064 - INFO - Talento_Tech - Ingresando a la pagina web
+2026-11-10 12:03:03,158 - INFO - Talento_Tech - Realizando login
+2026-11-10 12:03:05,445 - INFO - Talento_Tech - Login realizado con éxito
+2026-11-10 12:03:05,446 - INFO - Talento_Tech - Leyendo el primer producto del JSON
+2026-11-10 12:03:05,448 - INFO - Talento_Tech - Agregando producto del JSON
+2026-11-10 12:03:06,561 - INFO - Talento_Tech - Validando contador del carrito
+2026-11-10 12:03:06,561 - INFO - Talento_Tech - Ir a ls pagina del carrito
+2026-11-10 12:03:07,377 - INFO - Talento_Tech - Prueba nombre contra el JSON validada
+2026-11-10 12:03:07,638 - INFO - Talento_Tech - Prueba precio contra el JSON validada
+2026-11-10 12:03:22,197 - INFO - Talento_Tech - Inicializando la prueba de inventario
+2026-11-10 12:03:22,197 - INFO - Talento_Tech - Igresando a la pagina web
+2026-11-10 12:03:24,095 - INFO - Talento_Tech - Ingresando credenciales de usuario
+2026-11-10 12:03:24,878 - INFO - Talento_Tech - Credenciales ingresadas correctamente
+2026-11-10 12:03:25,068 - INFO - Talento_Tech - Productos obtenidos
+2026-11-10 12:03:25,069 - INFO - Talento_Tech - Se encontraron productos en el inventario
+2026-11-10 12:03:25,225 - INFO - Talento_Tech - Prueba de integridadde lainformacion de productos validada
+2026-11-10 12:03:25,258 - INFO - Talento_Tech - Prueba de visibilidad del menú en la pagina validada
+2026-11-10 12:03:25,285 - INFO - Talento_Tech - Prueba de visibilidad del filtro en la pagina validada
+2026-11-10 12:03:39,909 - INFO - Talento_Tech - Iniciando prueba de Login
+2026-11-10 12:03:41,110 - INFO - Talento_Tech - Pagina abierta correctamente
+2026-11-10 12:03:42,128 - INFO - Talento_Tech - Credenciales ingresadas correctamente
+2026-11-10 12:03:49,385 - INFO - Talento_Tech - Iniciando prueba de Login
+2026-11-10 12:03:51,196 - INFO - Talento_Tech - Pagina abierta correctamente
+2026-11-10 12:03:52,131 - INFO - Talento_Tech - Credenciales ingresadas correctamente
+2026-11-10 12:03:52,217 - INFO - Talento_Tech - Prueba de mensaje de error correcta
+2026-11-10 12:03:58,478 - INFO - Talento_Tech - Iniciando prueba de Login
+2026-11-10 12:04:00,245 - INFO - Talento_Tech - Pagina abierta correctamente
+2026-11-10 12:04:00,974 - INFO - Talento_Tech - Credenciales ingresadas correctamente
+2026-11-10 12:04:01,100 - INFO - Talento_Tech - Prueba de mensaje de error correcta
